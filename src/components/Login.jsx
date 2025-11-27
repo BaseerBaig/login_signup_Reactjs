@@ -6,7 +6,7 @@ const Login = ({ setActive }) => {
       <input type="email" placeholder="Enter Email Address" />
       <input type="password" placeholder="Enter Password" />
 
-      <div className="forgot">Forgot password?</div>
+      <div className="forgot">Did you forget password?</div>
 
       <button className="main-btn">Login</button>
 
