@@ -3,8 +3,8 @@ import React from "react";
 const Login = ({ setActive }) => {
   return (
     <>
-      <input type="email" placeholder="Email Address" />
-      <input type="password" placeholder="Password" />
+      <input type="email" placeholder="Enter Email Address" />
+      <input type="password" placeholder="Enter Password" />
 
       <div className="forgot">Forgot password?</div>
 
