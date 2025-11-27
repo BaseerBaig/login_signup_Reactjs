@@ -4,7 +4,7 @@ function HomeScreen() {
   return (
     <div style={styles.container}>
       <h1 style={styles.title}>Welcome to My Home Screen</h1>
-      <p style={styles.subtitle}>This is a simple home page built with React JS.</p>
+      <p style={styles.subtitle}>This is a simple home page built with React JS</p>
 
       <button style={styles.button}>Get Started</button>
     </div>
